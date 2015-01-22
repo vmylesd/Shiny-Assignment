@@ -1,0 +1,36 @@
+Shiny Assignment
+========================================================
+author: V Dutton
+date: 22 Jan 2015
+
+Cash problems?
+========================================================
+
+Spending less at the pub can drastically reduce YOUR cashflow problems. Benefits include:
+
+- Having more money for chocolates
+- Adding zeros onto your bank balance
+- Feeling healthier, more sprightly and in touch with Mother Earth
+
+Typical alcohol consumption
+========================================================
+
+Alcohol is consumed by many.Here are the typical quantities
+(Note: data used from datasets package/alcgp)
+
+```{r, echo=FALSE}
+plot(esoph$alcgp, xlab="Grams per day")
+```
+
+Use my Shiny app to measure the influence of alcohol consumption on YOUR finances
+========================================================
+
+App instructions
+
+Access the app at ShinyApps:
+
+http://vmylesd.shinyapps.io/Assignment
+
+========================================================
+
+Thank you for visiting!
